@@ -1,0 +1,5 @@
+Sum: -10220
+Average: -102.2
+Positive: 45
+Negative: 55
+Total: 100

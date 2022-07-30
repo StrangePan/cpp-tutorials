@@ -1,0 +1,5 @@
+Sum: 47544554
+Average: 4754.46
+Positive: 9486
+Negative: 514
+Total: 10000

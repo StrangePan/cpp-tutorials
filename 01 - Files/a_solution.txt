@@ -1,0 +1,5 @@
+Sum: 956
+Average: 47.8
+Positive: 20
+Negative: 0
+Total: 20
